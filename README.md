@@ -21,7 +21,7 @@ Este é um projeto simples de um *Gerador de Senhas Aleatórias* feito com HTML,
 
 ## Instalação:
 Clone este repositório para seu computador:
-https://github.com/suelen-souzaa/gerador-de-senhas
+https://github.com/suelen-souzaa/gerador-de-senhas.git
 
 Depois, basta abrir o arquivo index.html em seu navegador.
 
@@ -29,6 +29,3 @@ Depois, basta abrir o arquivo index.html em seu navegador.
 Sinta-se à vontade para fazer um fork deste repositório, enviar pull requests ou abrir issues com sugestões e melhorias!
 
 ---
-
-### Para mais informações:
-Você pode visualizar o projeto no GitHub [aqui](https://github.com/suelen-souzaa/gerador-de-senhas).
