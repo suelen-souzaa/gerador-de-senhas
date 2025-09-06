@@ -11,7 +11,7 @@ Este é um projeto simples de um *Gerador de Senhas Aleatórias* feito com HTML,
 ## Tecnologias Usadas:
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## Como Usar:
 1. Abra o arquivo index.html no seu navegador.
@@ -29,3 +29,4 @@ Depois, basta abrir o arquivo index.html em seu navegador.
 Sinta-se à vontade para fazer um fork deste repositório, enviar pull requests ou abrir issues com sugestões e melhorias!
 
 ---
+
