@@ -19,14 +19,6 @@ Este é um projeto simples de um *Gerador de Senhas Aleatórias* feito com HTML,
 3. Clique em "Gerar Senha" para criar uma nova senha.
 4. Clique em "Copiar Senha" para copiar a senha gerada para a área de transferência.
 
-## Instalação:
-Clone este repositório para seu computador:
-https://github.com/suelen-souzaa/gerador-de-senhas.git
-
-Depois, basta abrir o arquivo index.html em seu navegador.
-
-## Contribuições:
-Sinta-se à vontade para fazer um fork deste repositório, enviar pull requests ou abrir issues com sugestões e melhorias!
-
 ---
+
 
