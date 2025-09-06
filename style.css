@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.password-box {
+    margin: 20px 0;
+}
+
+#password {
+    font-size: 1.5rem;
+    padding: 10px;
+    width: 100%;
+    max-width: 350px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+}
+
+.options {
+    margin: 15px 0;
+}
+
+.options label {
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+.options input {
+    padding: 5px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.buttons button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#generate {
+    background-color: #e47a7a;
+    color: white;
+}
+
+#copy {
+    background-color: #48b87a;
+    color: white;
+}
+
+#generate:hover {
+    background-color: #e47a7a;
+}
+
+#copy:hover {
+    background-color: #48b87a;
+}

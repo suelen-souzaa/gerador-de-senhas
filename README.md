@@ -1,2 +1,34 @@
-# gerador-de-senhas
-Gerador de senhas aleatórias com HTML, CSS e JavaScript
+# Gerador de Senhas Aleatórias
+
+Este é um projeto simples de um *Gerador de Senhas Aleatórias* feito com HTML, CSS e JavaScript.
+
+## Funcionalidades:
+- Gera uma senha aleatória com base no tamanho desejado.
+- Permite copiar a senha gerada para a área de transferência.
+- Personalização do tamanho da senha (entre 4 e 20 caracteres).
+- Senha composta por letras (maiúsculas e minúsculas), números e caracteres especiais.
+
+## Tecnologias Usadas:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## Como Usar:
+1. Abra o arquivo index.html no seu navegador.
+2. Escolha o tamanho da senha desejado.
+3. Clique em "Gerar Senha" para criar uma nova senha.
+4. Clique em "Copiar Senha" para copiar a senha gerada para a área de transferência.
+
+## Instalação:
+Clone este repositório para seu computador:
+https://github.com/suelen-souzaa/gerador-de-senhas
+
+Depois, basta abrir o arquivo index.html em seu navegador.
+
+## Contribuições:
+Sinta-se à vontade para fazer um fork deste repositório, enviar pull requests ou abrir issues com sugestões e melhorias!
+
+---
+
+### Para mais informações:
+Você pode visualizar o projeto no GitHub [aqui](https://github.com/suelen-souzaa/gerador-de-senhas).
